@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <Container>
       <Wrapper>
-        <Image src="src/components/navbar/Navbar.jsx />
+        <Image src="src/components/navbar/Navbar.jsx" />
       </Wrapper>
     </Container>
   );
