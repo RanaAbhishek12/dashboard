@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <Container>
       <Wrapper>
-        <Image src="almalogo (1).png" />
+        <Image src="https://github.com/RanaAbhishek12/dashboard/blob/master/almalogo%20(1).png?raw=true" />
       </Wrapper>
     </Container>
   );
