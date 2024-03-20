@@ -1,7 +1,20 @@
 Live Link :
 https://dashboard-ranaabhishek12s-projects.vercel.app/
 
-# Getting Started with Create React App
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Short Summary
+The core components of the project include:
+
+React App: The frontend of the application was developed using React, a popular JavaScript library for building user interfaces. React allowed for the creation of dynamic and responsive components, enhancing the overall user experience.
+React Redux: Redux was employed for state management, enabling the application to manage complex state transitions efficiently.
+React Redux facilitated centralized state management and simplified data flow within the application.
+Redux Thunk: Redux Thunk middleware was utilized to handle asynchronous actions in Redux. This allowed for the implementation of asynchronous data fetching from the CoinGecko API, ensuring smooth performance and responsiveness.
+Tailwind CSS: Tailwind CSS was chosen for styling the user interface, offering a utility-first approach to CSS development. Tailwind CSS streamlined the styling process and facilitated the creation of visually appealing UI components.
+Chart.js and React Chart.js: Chart.js and React Chart.js were used for data visualization, enabling the creation of interactive and customizable charts to display cryptocurrency price trends, market data, and historical performance.
+CoinGecko API: The CoinGecko API served as the primary data source for fetching cryptocurrency-related information, including prices, market capitalization, trading volume, and more.
+# Getting Started with Create React App.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
